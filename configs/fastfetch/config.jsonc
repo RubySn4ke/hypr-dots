@@ -16,6 +16,7 @@
     "wm",
     "cpu",
     "memory",
+    "battery",
     "uptime"
   ]
 }
