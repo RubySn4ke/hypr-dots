@@ -10,5 +10,4 @@ line_wrap=word
 lines=8
 width=500
 no_actions=true
-prompt= 
 hide_scroll=true
