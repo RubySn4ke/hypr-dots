@@ -1,6 +1,14 @@
 # hypr-dots
-*al1's dotfiles (modified from other dots). (:*
 
-**wofi: @diinki**
+Al1's dotfiles (modified from other dots). (:
 
-**waybar: @Oglo12 "on gitlab"**
+# Credits <3
+- `wofi` : @diinki
+
+- `waybar` : @Oglo12 "on gitlab"
+
+# Fonts
+- JetBrainsMono Nerd Font
+
+- DejaVuSansMono
+
