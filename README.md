@@ -1,4 +1,4 @@
-# hypr-dots
+# My super minimal dotfiles
 
 Al1's dotfiles (modified from other dots). (:
 
